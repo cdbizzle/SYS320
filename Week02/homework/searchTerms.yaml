@@ -1,0 +1,5 @@
+---
+apache:
+  task1: "QQ.*.exe.*close.*"
+  task2: "QQ.*.exe.*open through proxy.*"
+  cgi:  "[GET|POST].*/cgi-bin/test-cgi.*,[GET|POST].*/cgi-bin/htsearch.*"
