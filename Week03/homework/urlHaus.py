@@ -18,7 +18,7 @@ def urlHausOpen(filename,searchTerm):
             # to remove the "tt" so programs don't convert the malicious
             # domains to links that an be accidentally clicked on.
                 the_url = eachLine[2].replace("http","hxxp")
-                the_src = eachLine[4]
+                the_src = eachLine[7]
                 print("""
                 URL: {}
                 Info: {}
