@@ -1,0 +1,3 @@
+1. There is definitely reason to be concerned with some of the logs that show an attempt to obtain a shell. In multiple instances I can see a 200 code with a large amount of data coming from an IP with multiple hits. This is a sign that there may have been an attacker accessing data.
+2. This assignment was interesting once I got it to work and got the bigger picture. I did feel like this week was significantly more challenging than the other weeks. I felt a larger disconnect between the classwork and the homework, this was slightly frustrating. Other than that, this assignment was solid. I do wish that in the future we are given a bit more direction/hand-holding than we were this week.
+3. I don’t have any additional questions at this moment
