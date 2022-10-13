@@ -1007,4 +1007,589 @@ Guest                    WDAGUtilityAccount
 The command completed successfully.
 
 
+### END: net user ###### BEGIN: tasklist ###
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      3,312 K
+Registry                       172 Services                   0     47,608 K
+smss.exe                       632 Services                   0      1,120 K
+csrss.exe                      900 Services                   0      6,184 K
+wininit.exe                    672 Services                   0      6,320 K
+services.exe                  1000 Services                   0     14,332 K
+lsass.exe                     1020 Services                   0     28,624 K
+svchost.exe                   1216 Services                   0     34,516 K
+fontdrvhost.exe               1252 Services                   0      3,280 K
+WUDFHost.exe                  1316 Services                   0     19,204 K
+svchost.exe                   1380 Services                   0     17,388 K
+svchost.exe                   1428 Services                   0      8,352 K
+WUDFHost.exe                  1596 Services                   0      6,520 K
+svchost.exe                   1732 Services                   0      9,888 K
+svchost.exe                   1748 Services                   0     11,484 K
+svchost.exe                   1804 Services                   0     15,352 K
+svchost.exe                   1844 Services                   0      8,488 K
+svchost.exe                   1892 Services                   0      5,496 K
+svchost.exe                   1900 Services                   0     13,888 K
+svchost.exe                   1908 Services                   0      7,064 K
+svchost.exe                    880 Services                   0     19,192 K
+svchost.exe                   1492 Services                   0      5,296 K
+svchost.exe                   1992 Services                   0      8,980 K
+svchost.exe                   2084 Services                   0     11,024 K
+svchost.exe                   2308 Services                   0     10,716 K
+svchost.exe                   2372 Services                   0      7,348 K
+NVDisplay.Container.exe       2476 Services                   0     19,640 K
+svchost.exe                   2488 Services                   0     18,188 K
+PresentationFontCache.exe     2512 Services                   0     19,100 K
+svchost.exe                   2588 Services                   0     12,996 K
+svchost.exe                   2648 Services                   0      4,756 K
+svchost.exe                   2656 Services                   0     13,256 K
+svchost.exe                   2700 Services                   0      6,412 K
+svchost.exe                   2736 Services                   0      7,988 K
+svchost.exe                   2744 Services                   0      6,544 K
+Memory Compression            2796 Services                   0      8,868 K
+svchost.exe                   2816 Services                   0     16,224 K
+svchost.exe                   2892 Services                   0      9,268 K
+svchost.exe                   3036 Services                   0      7,092 K
+svchost.exe                   2556 Services                   0      9,932 K
+svchost.exe                   3252 Services                   0     42,052 K
+svchost.exe                   3492 Services                   0     14,388 K
+svchost.exe                   3684 Services                   0      6,044 K
+svchost.exe                   3692 Services                   0      9,804 K
+svchost.exe                   3820 Services                   0     21,532 K
+svchost.exe                   3924 Services                   0     13,588 K
+wlanext.exe                   4012 Services                   0      4,948 K
+conhost.exe                   4020 Services                   0      9,116 K
+spoolsv.exe                   4068 Services                   0     15,592 K
+svchost.exe                    892 Services                   0      8,036 K
+svchost.exe                   3616 Services                   0    182,308 K
+svchost.exe                   4120 Services                   0     20,016 K
+nordvpn-service.exe           4128 Services                   0     46,264 K
+svchost.exe                   4216 Services                   0      7,160 K
+svchost.exe                   4760 Services                   0     44,576 K
+svchost.exe                   4780 Services                   0     13,524 K
+svchost.exe                   4796 Services                   0     11,508 K
+svchost.exe                   4824 Services                   0     10,320 K
+svchost.exe                   4832 Services                   0     45,420 K
+svchost.exe                   4840 Services                   0      7,156 K
+svchost.exe                   4848 Services                   0     20,156 K
+svchost.exe                   4864 Services                   0      6,256 K
+svchost.exe                   4884 Services                   0      4,748 K
+CortexLauncherService.exe     4896 Services                   0      6,392 K
+DAX3API.exe                   4904 Services                   0     17,776 K
+svchost.exe                   4916 Services                   0     11,608 K
+vmware-authd.exe              4924 Services                   0     10,268 K
+svchost.exe                   4932 Services                   0      9,140 K
+ThunderboltService.exe        4940 Services                   0     18,376 K
+RtkAudUService64.exe          4948 Services                   0      9,656 K
+ftscanmgrhv.exe               4960 Services                   0      8,320 K
+ftnlsv.exe                    4968 Services                   0      6,412 K
+RazerCentralService.exe       4976 Services                   0    226,228 K
+vmwsprrdpwks.exe              5016 Services                   0      7,668 K
+MsMpEng.exe                   5032 Services                   0    351,640 K
+vmnat.exe                     5056 Services                   0      6,224 K
+nvcontainer.exe               5064 Services                   0     39,524 K
+IntelAudioService.exe         5072 Services                   0     23,580 K
+vmware-usbarbitrator64.ex     5084 Services                   0     10,508 K
+AdobeUpdateService.exe        5092 Services                   0      6,596 K
+horizon_client_service.ex     5108 Services                   0     11,976 K
+HPPrintScanDoctorService.     2916 Services                   0      7,368 K
+GameManagerService.exe        4464 Services                   0    123,440 K
+LMS.exe                       4492 Services                   0      9,012 K
+GameManagerService3.exe       4568 Services                   0    210,520 K
+OfficeClickToRun.exe          5156 Services                   0     58,616 K
+vmnetdhcp.exe                 5168 Services                   0      4,492 K
+esif_uf.exe                   5228 Services                   0      5,324 K
+AGSService.exe                5248 Services                   0     11,360 K
+AGMService.exe                5264 Services                   0     11,756 K
+svchost.exe                   5488 Services                   0      8,072 K
+svchost.exe                   5636 Services                   0      5,464 K
+svchost.exe                   5800 Services                   0      4,452 K
+gamingservices.exe            6040 Services                   0     30,876 K
+jhi_service.exe               6120 Services                   0      5,132 K
+gamingservicesnet.exe         5632 Services                   0      4,212 K
+svchost.exe                   6604 Services                   0     12,376 K
+unsecapp.exe                  5756 Services                   0      7,148 K
+svchost.exe                   7368 Services                   0      8,864 K
+WmiPrvSE.exe                  7656 Services                   0     25,080 K
+svchost.exe                   7776 Services                   0      6,968 K
+dasHost.exe                   8752 Services                   0      6,960 K
+svchost.exe                   9096 Services                   0      3,564 K
+svchost.exe                   7808 Services                   0     10,372 K
+NisSrv.exe                    7608 Services                   0     11,552 K
+dllhost.exe                   9588 Services                   0     10,928 K
+svchost.exe                   9932 Services                   0     20,960 K
+svchost.exe                   9168 Services                   0      9,872 K
+svchost.exe                  10360 Services                   0      7,304 K
+svchost.exe                  10608 Services                   0     20,488 K
+GoogleCrashHandler.exe       11796 Services                   0      1,472 K
+GoogleCrashHandler64.exe     11820 Services                   0      1,056 K
+svchost.exe                  12220 Services                   0     19,452 K
+svchost.exe                  14356 Services                   0      9,424 K
+SecurityHealthService.exe    10976 Services                   0     15,296 K
+MpCopyAccelerator.exe        15876 Services                   0      5,512 K
+svchost.exe                  16612 Services                   0     14,108 K
+svchost.exe                  16888 Services                   0     13,020 K
+svchost.exe                  18400 Services                   0      4,740 K
+sshd.exe                     16832 Services                   0      6,268 K
+ssh-agent.exe                18776 Services                   0      4,424 K
+svchost.exe                  19060 Services                   0     18,848 K
+svchost.exe                   2772 Services                   0      8,688 K
+SgrmBroker.exe               18852 Services                   0      7,600 K
+svchost.exe                  13348 Services                   0      6,268 K
+svchost.exe                  10308 Services                   0      9,700 K
+svchost.exe                   5844 Services                   0     13,680 K
+svchost.exe                  14728 Services                   0     34,932 K
+dasHost.exe                   9120 Services                   0     14,600 K
+dasHost.exe                  19656 Services                   0      8,756 K
+Razer Synapse Service.exe    10544 Services                   0    222,364 K
+svchost.exe                   5240 Services                   0     11,368 K
+SearchIndexer.exe             3740 Services                   0     56,792 K
+armsvc.exe                   13860 Services                   0      5,996 K
+csrss.exe                     9936 Console                    3      6,488 K
+winlogon.exe                 20124 Console                    3     10,660 K
+fontdrvhost.exe               4152 Console                    3      7,284 K
+dwm.exe                      10192 Console                    3     81,056 K
+NVDisplay.Container.exe      12412 Console                    3     54,640 K
+svchost.exe                  15120 Services                   0      5,924 K
+DAX3API.exe                  15992 Console                    3      8,896 K
+nvcontainer.exe              18436 Console                    3     29,432 K
+sihost.exe                   20404 Console                    3     28,384 K
+svchost.exe                  14828 Console                    3     33,436 K
+nvcontainer.exe              10956 Console                    3     60,760 K
+svchost.exe                  16620 Console                    3     36,052 K
+taskhostw.exe                 2216 Console                    3     18,640 K
+explorer.exe                 10312 Console                    3    163,076 K
+Razer Synapse Service Pro     6344 Console                    3     62,612 K
+svchost.exe                   7588 Services                   0      8,500 K
+svchost.exe                   8912 Console                    3     21,928 K
+NVIDIA Web Helper.exe        21252 Console                    3     12,596 K
+conhost.exe                  19900 Console                    3      1,080 K
+StartMenuExperienceHost.e    11812 Console                    3     81,312 K
+RuntimeBroker.exe            21228 Console                    3     25,552 K
+SearchApp.exe                14792 Console                    3    224,436 K
+RtkAudUService64.exe         19116 Console                    3      8,996 K
+ctfmon.exe                   18236 Console                    3     21,020 K
+RuntimeBroker.exe             1924 Console                    3     46,032 K
+SettingSyncHost.exe          13756 Console                    3      8,500 K
+TextInputHost.exe            15708 Console                    3     51,576 K
+PhoneExperienceHost.exe       1396 Console                    3    145,168 K
+chrome.exe                   10952 Console                    3    250,528 K
+chrome.exe                    4496 Console                    3      7,588 K
+chrome.exe                    1592 Console                    3    232,420 K
+chrome.exe                   10356 Console                    3     64,052 K
+chrome.exe                    4696 Console                    3     21,152 K
+RuntimeBroker.exe             7024 Console                    3     15,668 K
+chrome.exe                   19724 Console                    3     23,048 K
+nvsphelper64.exe              8200 Console                    3     14,476 K
+NVIDIA Share.exe              6112 Console                    3     60,144 K
+NVIDIA Share.exe              9576 Console                    3     38,084 K
+NVIDIA Share.exe             10328 Console                    3     81,340 K
+dasHost.exe                  19896 Services                   0      7,160 K
+dasHost.exe                  17900 Services                   0      4,880 K
+dasHost.exe                   7724 Services                   0      8,108 K
+SecurityHealthSystray.exe    13836 Console                    3      9,840 K
+RtkAudUService64.exe         11852 Console                    3     11,072 K
+RuntimeBroker.exe            10940 Console                    3     22,980 K
+Razer Synapse 3.exe          15504 Console                    3    182,376 K
+Razer Central.exe            19996 Console                    3    154,704 K
+CefSharp.BrowserSubproces     2960 Console                    3     61,944 K
+CefSharp.BrowserSubproces    11060 Console                    3     35,132 K
+WebexHost.exe                17984 Console                    3     17,864 K
+atmgr.exe                    11356 Console                    3    182,080 K
+CefSharp.BrowserSubproces    15976 Console                    3     28,120 K
+CefSharp.BrowserSubproces     5116 Console                    3     35,952 K
+CefSharp.BrowserSubproces    17856 Console                    3    101,844 K
+AdobeCollabSync.exe          20464 Console                    3     13,216 K
+AdobeCollabSync.exe           8740 Console                    3     22,404 K
+msedge.exe                   18516 Console                    3     86,432 K
+msedge.exe                   11888 Console                    3      7,596 K
+msedge.exe                   21044 Console                    3     38,696 K
+msedge.exe                   12256 Console                    3     31,320 K
+msedge.exe                   11940 Console                    3     19,420 K
+IGCCTray.exe                 19868 Console                    3     74,876 K
+IGCC.exe                     16128 Console                    3     50,960 K
+CCXProcess.exe               19692 Console                    3      2,860 K
+node.exe                      7840 Console                    3     64,780 K
+vmware-tray.exe              21240 Console                    3     12,276 K
+conhost.exe                  14772 Console                    3     10,720 K
+AdobeIPCBroker.exe           19384 Console                    3      9,216 K
+RazerCortex.exe              18788 Console                    3    140,744 K
+SystemSettings.exe            5236 Console                    3      2,504 K
+ApplicationFrameHost.exe     19200 Console                    3     28,052 K
+UserOOBEBroker.exe           20996 Console                    3      9,644 K
+AcrobatNotificationClient    16032 Console                    3      5,600 K
+RuntimeBroker.exe             7704 Console                    3     18,440 K
+svchost.exe                  15924 Console                    3     21,376 K
+SearchApp.exe                19276 Console                    3    471,028 K
+dllhost.exe                   8428 Console                    3     12,908 K
+SDXHelper.exe                18616 Console                    3     25,688 K
+Code.exe                     15292 Console                    3    120,160 K
+Code.exe                     14084 Console                    3     27,032 K
+Code.exe                      7568 Console                    3    134,628 K
+Code.exe                     17804 Console                    3     40,948 K
+Code.exe                     18904 Console                    3    322,832 K
+Code.exe                      5772 Console                    3    170,848 K
+Code.exe                     19720 Console                    3    116,876 K
+Code.exe                      2900 Console                    3     87,412 K
+Code.exe                     20192 Console                    3     89,964 K
+conhost.exe                  13192 Console                    3      6,184 K
+powershell.exe               11244 Console                    3     67,716 K
+Code.exe                      2320 Console                    3    278,888 K
+python.exe                   16416 Console                    3     14,668 K
+conhost.exe                  13872 Console                    3     11,120 K
+chrome.exe                   18900 Console                    3    127,992 K
+ShellExperienceHost.exe      18632 Console                    3     54,800 K
+Code.exe                     16260 Console                    3     86,316 K
+Microsoft.Photos.exe         13720 Console                    3     35,364 K
+RuntimeBroker.exe            22944 Console                    3     31,772 K
+audiodg.exe                   3516 Services                   0     18,820 K
+chrome.exe                    3212 Console                    3    108,216 K
+Code.exe                     15964 Console                    3    111,684 K
+Code.exe                     17228 Console                    3    124,648 K
+python3.10.exe               14172 Console                    3    118,348 K
+conhost.exe                   7440 Console                    3     11,212 K
+chrome.exe                   13996 Console                    3    152,264 K
+SearchProtocolHost.exe       11576 Console                    3      8,540 K
+SearchFilterHost.exe          8764 Services                   0      7,608 K
+backgroundTaskHost.exe        1684 Console                    3     28,596 K
+chrome.exe                   13564 Console                    3     76,020 K
+chrome.exe                   21616 Console                    3     30,936 K
+python3.10.exe                2936 Console                    3     90,072 K
+conhost.exe                   1636 Console                    3     11,180 K
+SearchProtocolHost.exe       18180 Services                   0     13,480 K
+sshd.exe                     20956 Services                   0      8,504 K
+ssh-agent.exe                12420 Services                   0      5,656 K
+sshd.exe                     22496 Services                   0      8,696 K
+cmd.exe                      21916 Services                   0      4,316 K
+conhost.exe                   1488 Services                   0     12,880 K
+tasklist.exe                 13044 Services                   0      9,128 K
+
+### END: tasklist ###### BEGIN: netstat -an ###
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:22             0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:903            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:913            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5426           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49671          0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:1025         127.0.0.1:65001        ESTABLISHED
+  TCP    127.0.0.1:1065         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:1065         127.0.0.1:1088         ESTABLISHED
+  TCP    127.0.0.1:1088         127.0.0.1:1065         ESTABLISHED
+  TCP    127.0.0.1:1128         127.0.0.1:1129         ESTABLISHED
+  TCP    127.0.0.1:1129         127.0.0.1:1128         ESTABLISHED
+  TCP    127.0.0.1:1130         127.0.0.1:1131         ESTABLISHED
+  TCP    127.0.0.1:1131         127.0.0.1:1130         ESTABLISHED
+  TCP    127.0.0.1:1132         127.0.0.1:1133         ESTABLISHED
+  TCP    127.0.0.1:1133         127.0.0.1:1132         ESTABLISHED
+  TCP    127.0.0.1:1134         127.0.0.1:1135         ESTABLISHED
+  TCP    127.0.0.1:1135         127.0.0.1:1134         ESTABLISHED
+  TCP    127.0.0.1:1136         127.0.0.1:1137         ESTABLISHED
+  TCP    127.0.0.1:1137         127.0.0.1:1136         ESTABLISHED
+  TCP    127.0.0.1:1168         127.0.0.1:49672        ESTABLISHED
+  TCP    127.0.0.1:1221         127.0.0.1:1222         ESTABLISHED
+  TCP    127.0.0.1:1222         127.0.0.1:1221         ESTABLISHED
+  TCP    127.0.0.1:1223         127.0.0.1:1224         ESTABLISHED
+  TCP    127.0.0.1:1224         127.0.0.1:1223         ESTABLISHED
+  TCP    127.0.0.1:1225         127.0.0.1:1226         ESTABLISHED
+  TCP    127.0.0.1:1226         127.0.0.1:1225         ESTABLISHED
+  TCP    127.0.0.1:1227         127.0.0.1:1228         ESTABLISHED
+  TCP    127.0.0.1:1228         127.0.0.1:1227         ESTABLISHED
+  TCP    127.0.0.1:1229         127.0.0.1:1230         ESTABLISHED
+  TCP    127.0.0.1:1230         127.0.0.1:1229         ESTABLISHED
+  TCP    127.0.0.1:1232         127.0.0.1:1233         ESTABLISHED
+  TCP    127.0.0.1:1233         127.0.0.1:1232         ESTABLISHED
+  TCP    127.0.0.1:1234         127.0.0.1:1235         ESTABLISHED
+  TCP    127.0.0.1:1235         127.0.0.1:1234         ESTABLISHED
+  TCP    127.0.0.1:1236         127.0.0.1:1237         ESTABLISHED
+  TCP    127.0.0.1:1237         127.0.0.1:1236         ESTABLISHED
+  TCP    127.0.0.1:1238         127.0.0.1:9002         ESTABLISHED
+  TCP    127.0.0.1:1239         127.0.0.1:1240         ESTABLISHED
+  TCP    127.0.0.1:1240         127.0.0.1:1239         ESTABLISHED
+  TCP    127.0.0.1:1241         127.0.0.1:1242         ESTABLISHED
+  TCP    127.0.0.1:1242         127.0.0.1:1241         ESTABLISHED
+  TCP    127.0.0.1:1245         127.0.0.1:1246         ESTABLISHED
+  TCP    127.0.0.1:1246         127.0.0.1:1245         ESTABLISHED
+  TCP    127.0.0.1:1247         127.0.0.1:1248         ESTABLISHED
+  TCP    127.0.0.1:1248         127.0.0.1:1247         ESTABLISHED
+  TCP    127.0.0.1:1249         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:1250         127.0.0.1:1251         ESTABLISHED
+  TCP    127.0.0.1:1251         127.0.0.1:1250         ESTABLISHED
+  TCP    127.0.0.1:1252         127.0.0.1:1253         ESTABLISHED
+  TCP    127.0.0.1:1253         127.0.0.1:1252         ESTABLISHED
+  TCP    127.0.0.1:1254         127.0.0.1:1255         ESTABLISHED
+  TCP    127.0.0.1:1255         127.0.0.1:1254         ESTABLISHED
+  TCP    127.0.0.1:1256         127.0.0.1:1257         ESTABLISHED
+  TCP    127.0.0.1:1257         127.0.0.1:1256         ESTABLISHED
+  TCP    127.0.0.1:1258         127.0.0.1:1259         ESTABLISHED
+  TCP    127.0.0.1:1259         127.0.0.1:1258         ESTABLISHED
+  TCP    127.0.0.1:1260         127.0.0.1:1261         ESTABLISHED
+  TCP    127.0.0.1:1261         127.0.0.1:1260         ESTABLISHED
+  TCP    127.0.0.1:1262         127.0.0.1:1263         ESTABLISHED
+  TCP    127.0.0.1:1263         127.0.0.1:1262         ESTABLISHED
+  TCP    127.0.0.1:1265         127.0.0.1:1266         ESTABLISHED
+  TCP    127.0.0.1:1266         127.0.0.1:1265         ESTABLISHED
+  TCP    127.0.0.1:1267         127.0.0.1:9004         ESTABLISHED
+  TCP    127.0.0.1:1268         127.0.0.1:1269         ESTABLISHED
+  TCP    127.0.0.1:1269         127.0.0.1:1268         ESTABLISHED
+  TCP    127.0.0.1:1270         127.0.0.1:9002         ESTABLISHED
+  TCP    127.0.0.1:1271         127.0.0.1:1272         ESTABLISHED
+  TCP    127.0.0.1:1272         127.0.0.1:1271         ESTABLISHED
+  TCP    127.0.0.1:1273         127.0.0.1:9001         ESTABLISHED
+  TCP    127.0.0.1:1274         127.0.0.1:1275         ESTABLISHED
+  TCP    127.0.0.1:1275         127.0.0.1:1274         ESTABLISHED
+  TCP    127.0.0.1:1276         127.0.0.1:9003         ESTABLISHED
+  TCP    127.0.0.1:1277         127.0.0.1:1278         ESTABLISHED
+  TCP    127.0.0.1:1278         127.0.0.1:1277         ESTABLISHED
+  TCP    127.0.0.1:1367         127.0.0.1:1368         ESTABLISHED
+  TCP    127.0.0.1:1368         127.0.0.1:1367         ESTABLISHED
+  TCP    127.0.0.1:1373         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:1489         127.0.0.1:1490         ESTABLISHED
+  TCP    127.0.0.1:1490         127.0.0.1:1489         ESTABLISHED
+  TCP    127.0.0.1:1491         127.0.0.1:1492         ESTABLISHED
+  TCP    127.0.0.1:1492         127.0.0.1:1491         ESTABLISHED
+  TCP    127.0.0.1:9000         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9001         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9001         127.0.0.1:1273         ESTABLISHED
+  TCP    127.0.0.1:9002         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9002         127.0.0.1:1238         ESTABLISHED
+  TCP    127.0.0.1:9002         127.0.0.1:1270         ESTABLISHED
+  TCP    127.0.0.1:9003         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9003         127.0.0.1:1276         ESTABLISHED
+  TCP    127.0.0.1:9004         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9004         127.0.0.1:1267         ESTABLISHED
+  TCP    127.0.0.1:9005         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9006         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9006         127.0.0.1:10776        ESTABLISHED
+  TCP    127.0.0.1:9007         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9007         127.0.0.1:10744        ESTABLISHED
+  TCP    127.0.0.1:9007         127.0.0.1:10773        ESTABLISHED
+  TCP    127.0.0.1:9008         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9008         127.0.0.1:10779        ESTABLISHED
+  TCP    127.0.0.1:9009         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9009         127.0.0.1:10770        ESTABLISHED
+  TCP    127.0.0.1:10540        127.0.0.1:10541        ESTABLISHED
+  TCP    127.0.0.1:10541        127.0.0.1:10540        ESTABLISHED
+  TCP    127.0.0.1:10542        127.0.0.1:10543        ESTABLISHED
+  TCP    127.0.0.1:10543        127.0.0.1:10542        ESTABLISHED
+  TCP    127.0.0.1:10544        127.0.0.1:10545        ESTABLISHED
+  TCP    127.0.0.1:10545        127.0.0.1:10544        ESTABLISHED
+  TCP    127.0.0.1:10546        127.0.0.1:10547        ESTABLISHED
+  TCP    127.0.0.1:10547        127.0.0.1:10546        ESTABLISHED
+  TCP    127.0.0.1:10548        127.0.0.1:10549        ESTABLISHED
+  TCP    127.0.0.1:10549        127.0.0.1:10548        ESTABLISHED
+  TCP    127.0.0.1:10728        127.0.0.1:10729        ESTABLISHED
+  TCP    127.0.0.1:10729        127.0.0.1:10728        ESTABLISHED
+  TCP    127.0.0.1:10730        127.0.0.1:10731        ESTABLISHED
+  TCP    127.0.0.1:10731        127.0.0.1:10730        ESTABLISHED
+  TCP    127.0.0.1:10732        127.0.0.1:10733        ESTABLISHED
+  TCP    127.0.0.1:10733        127.0.0.1:10732        ESTABLISHED
+  TCP    127.0.0.1:10734        127.0.0.1:10735        ESTABLISHED
+  TCP    127.0.0.1:10735        127.0.0.1:10734        ESTABLISHED
+  TCP    127.0.0.1:10736        127.0.0.1:10737        ESTABLISHED
+  TCP    127.0.0.1:10737        127.0.0.1:10736        ESTABLISHED
+  TCP    127.0.0.1:10738        127.0.0.1:10739        ESTABLISHED
+  TCP    127.0.0.1:10739        127.0.0.1:10738        ESTABLISHED
+  TCP    127.0.0.1:10740        127.0.0.1:10741        ESTABLISHED
+  TCP    127.0.0.1:10741        127.0.0.1:10740        ESTABLISHED
+  TCP    127.0.0.1:10742        127.0.0.1:10743        ESTABLISHED
+  TCP    127.0.0.1:10743        127.0.0.1:10742        ESTABLISHED
+  TCP    127.0.0.1:10744        127.0.0.1:9007         ESTABLISHED
+  TCP    127.0.0.1:10745        127.0.0.1:10746        ESTABLISHED
+  TCP    127.0.0.1:10746        127.0.0.1:10745        ESTABLISHED
+  TCP    127.0.0.1:10747        127.0.0.1:10748        ESTABLISHED
+  TCP    127.0.0.1:10748        127.0.0.1:10747        ESTABLISHED
+  TCP    127.0.0.1:10749        127.0.0.1:10750        ESTABLISHED
+  TCP    127.0.0.1:10750        127.0.0.1:10749        ESTABLISHED
+  TCP    127.0.0.1:10751        127.0.0.1:10752        ESTABLISHED
+  TCP    127.0.0.1:10752        127.0.0.1:10751        ESTABLISHED
+  TCP    127.0.0.1:10753        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:10754        127.0.0.1:10755        ESTABLISHED
+  TCP    127.0.0.1:10755        127.0.0.1:10754        ESTABLISHED
+  TCP    127.0.0.1:10756        127.0.0.1:10757        ESTABLISHED
+  TCP    127.0.0.1:10757        127.0.0.1:10756        ESTABLISHED
+  TCP    127.0.0.1:10758        127.0.0.1:10759        ESTABLISHED
+  TCP    127.0.0.1:10759        127.0.0.1:10758        ESTABLISHED
+  TCP    127.0.0.1:10760        127.0.0.1:10761        ESTABLISHED
+  TCP    127.0.0.1:10761        127.0.0.1:10760        ESTABLISHED
+  TCP    127.0.0.1:10762        127.0.0.1:10763        ESTABLISHED
+  TCP    127.0.0.1:10763        127.0.0.1:10762        ESTABLISHED
+  TCP    127.0.0.1:10764        127.0.0.1:10765        ESTABLISHED
+  TCP    127.0.0.1:10765        127.0.0.1:10764        ESTABLISHED
+  TCP    127.0.0.1:10768        127.0.0.1:10769        ESTABLISHED
+  TCP    127.0.0.1:10769        127.0.0.1:10768        ESTABLISHED
+  TCP    127.0.0.1:10770        127.0.0.1:9009         ESTABLISHED
+  TCP    127.0.0.1:10771        127.0.0.1:10772        ESTABLISHED
+  TCP    127.0.0.1:10772        127.0.0.1:10771        ESTABLISHED
+  TCP    127.0.0.1:10773        127.0.0.1:9007         ESTABLISHED
+  TCP    127.0.0.1:10774        127.0.0.1:10775        ESTABLISHED
+  TCP    127.0.0.1:10775        127.0.0.1:10774        ESTABLISHED
+  TCP    127.0.0.1:10776        127.0.0.1:9006         ESTABLISHED
+  TCP    127.0.0.1:10777        127.0.0.1:10778        ESTABLISHED
+  TCP    127.0.0.1:10778        127.0.0.1:10777        ESTABLISHED
+  TCP    127.0.0.1:10779        127.0.0.1:9008         ESTABLISHED
+  TCP    127.0.0.1:10780        127.0.0.1:10781        ESTABLISHED
+  TCP    127.0.0.1:10781        127.0.0.1:10780        ESTABLISHED
+  TCP    127.0.0.1:10782        127.0.0.1:10783        ESTABLISHED
+  TCP    127.0.0.1:10783        127.0.0.1:10782        ESTABLISHED
+  TCP    127.0.0.1:49672        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:49672        127.0.0.1:1168         ESTABLISHED
+  TCP    127.0.0.1:55000        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:65001        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:65001        127.0.0.1:1025         ESTABLISHED
+  TCP    192.168.0.151:139      0.0.0.0:0              LISTENING
+  TCP    192.168.0.151:1052     52.226.139.180:443     ESTABLISHED
+  TCP    192.168.0.151:1109     72.25.64.32:443        ESTABLISHED
+  TCP    192.168.0.151:1142     18.209.201.158:443     ESTABLISHED
+  TCP    192.168.0.151:1157     18.209.201.158:443     ESTABLISHED
+  TCP    192.168.0.151:1231     104.45.188.91:443      CLOSE_WAIT
+  TCP    192.168.0.151:1372     34.193.113.164:443     ESTABLISHED
+  TCP    192.168.0.151:1415     142.251.163.188:5228   ESTABLISHED
+  TCP    192.168.0.151:10172    18.160.10.5:443        ESTABLISHED
+  TCP    192.168.0.151:10383    34.107.148.139:443     ESTABLISHED
+  TCP    192.168.0.151:10535    151.101.118.49:443     TIME_WAIT
+  TCP    192.168.0.151:10662    140.82.113.3:443       ESTABLISHED
+  TCP    192.168.0.151:10666    185.199.109.154:443    ESTABLISHED
+  TCP    192.168.0.151:10667    185.199.109.133:443    ESTABLISHED
+  TCP    192.168.0.151:10668    185.199.109.154:443    ESTABLISHED
+  TCP    192.168.0.151:10669    52.24.48.116:443       CLOSE_WAIT
+  TCP    192.168.0.151:10673    69.147.92.11:443       ESTABLISHED
+  TCP    192.168.0.151:10677    140.82.113.21:443      ESTABLISHED
+  TCP    192.168.0.151:10678    140.82.112.6:443       ESTABLISHED
+  TCP    192.168.0.151:10701    140.82.112.26:443      ESTABLISHED
+  TCP    192.168.0.151:10702    204.79.197.203:443     ESTABLISHED
+  TCP    192.168.0.151:10703    140.82.113.21:443      ESTABLISHED
+  TCP    192.168.0.151:10714    54.158.132.81:443      ESTABLISHED
+  TCP    192.168.0.151:10715    54.158.132.81:443      ESTABLISHED
+  TCP    192.168.30.1:139       0.0.0.0:0              LISTENING
+  TCP    192.168.255.1:139      0.0.0.0:0              LISTENING
+  TCP    [::]:22                [::]:0                 LISTENING
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:5426              [::]:0                 LISTENING
+  TCP    [::]:49664             [::]:0                 LISTENING
+  TCP    [::]:49665             [::]:0                 LISTENING
+  TCP    [::]:49666             [::]:0                 LISTENING
+  TCP    [::]:49667             [::]:0                 LISTENING
+  TCP    [::]:49668             [::]:0                 LISTENING
+  TCP    [::]:49671             [::]:0                 LISTENING
+  TCP    [::1]:22               [::1]:10788            ESTABLISHED
+  TCP    [::1]:1027             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1030             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1033             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1036             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1114             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1186             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1192             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1195             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1200             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1205             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1206             [::1]:5426             ESTABLISHED
+  TCP    [::1]:1214             [::1]:5426             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1027             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1030             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1033             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1036             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1114             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1186             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1192             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1195             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1200             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1205             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1206             ESTABLISHED
+  TCP    [::1]:5426             [::1]:1214             ESTABLISHED
+  TCP    [::1]:10788            [::1]:22               ESTABLISHED
+  TCP    [::1]:49669            [::]:0                 LISTENING
+  UDP    0.0.0.0:123            *:*                    
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:50029          *:*                    
+  UDP    0.0.0.0:52759          *:*                    
+  UDP    0.0.0.0:64434          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:10030        *:*                    
+  UDP    127.0.0.1:51819        *:*                    
+  UDP    127.0.0.1:54046        *:*                    
+  UDP    127.0.0.1:55663        *:*                    
+  UDP    127.0.0.1:61162        *:*                    
+  UDP    192.168.0.151:137      *:*                    
+  UDP    192.168.0.151:138      *:*                    
+  UDP    192.168.0.151:1900     *:*                    
+  UDP    192.168.0.151:5353     *:*                    
+  UDP    192.168.0.151:55662    *:*                    
+  UDP    192.168.30.1:137       *:*                    
+  UDP    192.168.30.1:138       *:*                    
+  UDP    192.168.30.1:1900      *:*                    
+  UDP    192.168.30.1:5353      *:*                    
+  UDP    192.168.30.1:55661     *:*                    
+  UDP    192.168.255.1:137      *:*                    
+  UDP    192.168.255.1:138      *:*                    
+  UDP    192.168.255.1:1900     *:*                    
+  UDP    192.168.255.1:5353     *:*                    
+  UDP    192.168.255.1:55660    *:*                    
+  UDP    [::]:123               *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:4500              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:50030             *:*                    
+  UDP    [::]:52760             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:55659            *:*                    
+  UDP    [fe80::28fd:2837:531e:17bd%23]:1900  *:*                    
+  UDP    [fe80::28fd:2837:531e:17bd%23]:55656  *:*                    
+  UDP    [fe80::c8c5:a41e:1b43:af44%6]:1900  *:*                    
+  UDP    [fe80::c8c5:a41e:1b43:af44%6]:55657  *:*                    
+  UDP    [fe80::dc1d:9b64:f57e:f811%22]:1900  *:*                    
+  UDP    [fe80::dc1d:9b64:f57e:f811%22]:55658  *:*                    
+
+### END: netstat -an ###### BEGIN: last ###
+
+### END: last ###### BEGIN: net user ###
+
+User accounts for \\SANDRAS-MACBOOK
+
+-------------------------------------------------------------------------------
+Administrator            colec                    DefaultAccount           
+Guest                    WDAGUtilityAccount       
+The command completed successfully.
+
+
 ### END: net user ###
