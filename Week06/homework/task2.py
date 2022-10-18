@@ -3,7 +3,7 @@ blindFiles = [
     "cat /etc/resolv.conf",
     "cat /etc/motd",
     "cat /etc/issue",
-    "cat ~/.bash_history",
+    "cat ~/.bash_history"
 ]
 
 system = ["uname -a", "ps aux", "top -n 1 -d", "id", "uname -m"]
@@ -13,7 +13,7 @@ networking = [
     "ip addr show",
     "ip ro show",
     "route -n",
-    "cat /etc/network/interfaces",
+    "cat /etc/network/interfaces"
 ]
 
 userAccounts = [
@@ -21,7 +21,7 @@ userAccounts = [
     "cat /etc/shadow",
     "cat /etc/group",
     "getent passwd",  
-    "getent group",
+    "getent group"
 ]
 
 userInfo = [
@@ -29,7 +29,7 @@ userInfo = [
     "ls -alh /home/*/.ssh/",
     "cat /home/*/.ssh/authorized_keys",
     "cat /home/*/.ssh/known_hosts",
-    "cat /home/*/.hist",
+    "cat /home/*/.hist"
 ]
 
 configs = [
@@ -37,7 +37,7 @@ configs = [
     "cat /etc/issue{,.net}",
     "cat /etc/master.passwd",
     "cat /etc/group",
-    "cat /etc/hosts",
+    "cat /etc/hosts"
 ]
 
 determineDistro = [
@@ -45,14 +45,14 @@ determineDistro = [
     "lsb_release -d",
     "/etc/os-release",
     "/etc/issue",
-    "cat /etc/*release",
+    "cat /etc/*release"
 ]
 
 installedPackages = [
     "dpkg -l",
     "dpkg -l | grep -i 'linux-image'",
     "dpkg --get-selections",
-    "cat /etc/apt/sources.list",
+    "cat /etc/apt/sources.list"
 ]
 
 importantFiles = [
@@ -60,5 +60,5 @@ importantFiles = [
     "ls -alR | grep ^d",
     "find /var -type d",
     "ls -dl `find /var -type d`",
-    "ls -dl `find /var -type d` | grep -v root",
+    "ls -dl `find /var -type d` | grep -v root"
 ]
